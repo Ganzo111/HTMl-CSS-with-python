@@ -1,0 +1,8 @@
+Write a function average which returns the average of its two parameters.
+
+Use the following provided code to begin:
+
+function average(x, y) {
+    return (x + y) / 2;
+}
+
